@@ -32,8 +32,9 @@ Download the code and install the dependencies. For a while it just uses drawill
         ⠀⠀⠀⠀⠀⠀⠉⠒⠒⠒⠒⠊⠁⠀⠀⠀⠔⠁⠀⠀
 
 Aspiral accept two parameters, the first is size and second is ratio for expansion.
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
      ➜  drawille-stuff git:(master) ✗ ruby aspiral.rb 100 2
+
 
         ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠤⠤⠤⠤⠤⠤⠤⠤⢄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
         ⠀⠀⠀⠀⠀⠀⠀⠀⡠⠔⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠑⠒⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
