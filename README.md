@@ -274,7 +274,8 @@ It was my first try extending from spiral algorithm.
 # conspiral
 
 The same example from splash, just keepking angles divided by 5 instead of fibonacci sequence.
-    ➜  drawille-stuff git:(master) ✗ ruby conspiral.rb
+
+     ➜  drawille-stuff git:(master) ✗ ruby conspiral.rb
 
     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⠉⠉⠉⠉⠉⠉⠑⠒⠢⠤⢄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
