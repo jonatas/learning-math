@@ -16,6 +16,7 @@ Download the code and install the dependencies. For a while it just uses drawill
      cd learning-math
      bundle install
 
+<script type="text/javascript" src="https://asciinema.org/a/10933.js" id="asciicast-10933" async></script>
 
 ## Aspiral
 
