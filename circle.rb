@@ -3,15 +3,18 @@ require "drawille"
 
 f = Drawille::FlipBook.new
 
-degree = 3
+
 canvas = Drawille::Canvas.new
 frame = canvas.paint do
-  (3.6 * 6 *  degree).to_i.times do |i|
+  (1..5).each do |n|
     down
-    right degree
-    forward degree
-    right degree
+    120.times do |i|
+      forward 4 * (1-(0.1*n))
+      right 3
+    end
     f.snapshot canvas
+    up
+    forward 10
   end
 
 end.frame
